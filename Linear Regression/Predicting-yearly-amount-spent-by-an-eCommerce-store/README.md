@@ -1,5 +1,8 @@
 # LINEAR-REGRESSION
 
+* The Linear regression is supervised machine learning model, this algorithm helps in modelling the relationship between the dependent and independent variables.
+* The criterion used here is the ordinal least squares (OLS).
+
 ## Linear Regression using Python
 
 ### Predicting-the-yearly-spent-amount-for-e-Commerce-store-using-Linear-Regression
